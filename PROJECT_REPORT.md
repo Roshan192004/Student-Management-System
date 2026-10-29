@@ -537,6 +537,6 @@ The implementation of this Student Management System successfully fulfills all l
 ---
 
 **Report Prepared By:**  
-**RAM KUMAR** (Reg No: 12306472 | Roll No: 26 | Section: KO020)  
+**Roshan Pal** (Reg No: 12325961 | Roll No: 38 | Section: K23MB)  
 Department of Computer Science & Engineering  
 Lovely Professional University
